@@ -1,0 +1,14 @@
+{
+  "name": "test_project",
+  "module": "index.ts",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "bun-types": "latest",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.18.3",
+    "mocha": "^10.2.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
