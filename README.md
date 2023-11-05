@@ -1,4 +1,4 @@
-# test_project
+# Ballot test project
 
 To install dependencies:
 
